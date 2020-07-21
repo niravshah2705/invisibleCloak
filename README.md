@@ -18,6 +18,10 @@ Install OpenCV with repository
 sudo apt update  
 sudo apt install python3-opencv  
 
+# Download & Run program
+git clone https://github.com/niravshah2705/invisibleCloak.git  
+cd invisibleCloak/  
+python3 cloak.py  
 
-Find me going invisible  
+# Find me going invisible  
 ![alt text](https://github.com/niravshah2705/invisibleCloak/blob/master/Screenshot%20from%202020-07-21%2011-59-41.png?raw=true)
